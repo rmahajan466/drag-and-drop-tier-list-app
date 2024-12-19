@@ -11,10 +11,10 @@ This is a drag and drop based tier list app that allows users to create and cust
 
 ## Screenshots
 
-![Screenshot 1](/images/1.png)
-![Screenshot 2](/images/2.png)
-![Screenshot 3](/images/3.png)
-![Screenshot 4](/images/4.png)
+![Screenshot 1](/images/image1.png)
+![Screenshot 2](/images/image2.png)
+![Screenshot 3](/images/image3.png)
+![Screenshot 4](/images/image4.png)
 
 ## Installation
 
